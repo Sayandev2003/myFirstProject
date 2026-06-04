@@ -1,5 +1,7 @@
-name = input("Enter your name: ")
-age = input("Enter your age: ")
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
 
-print(f"Hello {name}!")
-print(f"You are {age} years old.")
+print("Sum = ", num1 + num2)
+print("Difference = ", num1 - num2)
+print("Multiplication = ", num1 * num2)
+print("division = ", num1 / num2)
