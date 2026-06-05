@@ -64,8 +64,39 @@ Learning Progress
 - [ ] Dictionaries
 - [ ] Object-Oriented Programming
 
+## Current Progress
+
+Python Learning Progress: 40%
+
+Completed:
+- Basics
+- Conditions
+- For Loops
+- Range
+- Nested Loops
+- Pattern Programming
+
+Currently Learning:
+- While Loops
+
+## Upcoming Topics
+
+- While Loops
+- Functions
+- Lists
+- Dictionaries
+- File Handling
+- Object-Oriented Programming
+
+Future Projects:
+- Quiz Application
+- Student Management System
+- Expense Tracker
+- Contact Book
+
+
 Author
 
-Sayan Dev Biswas
+Sayandev Biswas
 
 Learning Python one step at a time 🚀
