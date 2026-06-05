@@ -18,3 +18,7 @@ for x in range(-8, 9):
 for t in range(1, 11):
     print(t)
 
+#example 
+
+for r in range(10, 0):
+    print(r)
